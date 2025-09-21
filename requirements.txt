@@ -1,6 +1,8 @@
+# requirements.txt
+
 streamlit
-groq 
+crewai
+crewai_tools
+langchain-google-genai
 python-dotenv
-pdf2image
-pandas
-PyMuPDF
+pymupdf

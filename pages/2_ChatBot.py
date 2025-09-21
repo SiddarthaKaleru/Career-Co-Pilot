@@ -1,9 +1,11 @@
+#2_ChatBot.py
+
 import streamlit as st
 from groq import Groq
 import os
 
 try:
-    client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+    client = Groq(api_key=os.environ.get("OPENAI_API_KEY"))
 except Exception as e:
     st.error("Please ensure your GROQ_API_KEY is set in the .env file.")
     st.stop()
@@ -29,7 +31,7 @@ if user_input:
         try:
             chat_completion = client.chat.completions.create(
                 messages=st.session_state.chat_history,
-                model="llama3-70b-8192",
+                model="openai/gpt-oss-20b",
             )
             bot_reply = chat_completion.choices[0].message.content
             
