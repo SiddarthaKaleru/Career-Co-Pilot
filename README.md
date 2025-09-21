@@ -153,8 +153,3 @@ The core of the ATS Resume Expert is a sequential crew of AI agents, where the o
 
 This sequential process ensures that each agent builds upon the work of the previous one, resulting in a detailed and context-aware final analysis.
 
------
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
