@@ -2,20 +2,6 @@
 
 Welcome to the AI Assistant Hub, a powerful Streamlit web application that leverages a multi-agent AI system built with **CrewAI** and powered by the lightning-fast **Groq API**. This hub provides a suite of intelligent tools designed to streamline complex tasks, starting with an expert-level resume analysis system.
 
-*(**Note**: You can replace the URL above with a screen recording/GIF of your application in action.)*
-
-## Table of Contents
-
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Tech Stack](https://www.google.com/search?q=%23tech-stack)
-  - [Project Structure](https://www.google.com/search?q=%23project-structure)
-  - [Setup & Installation](https://www.google.com/search?q=%23setup--installation)
-  - [How to Run](https://www.google.com/search?q=%23how-to-run)
-  - [How It Works: The AI Crew](https://www.google.com/search?q=%23how-it-works-the-ai-crew)
-  - [License](https://www.google.com/search?q=%23license)
-
------
-
 ## Features
 
 The AI Assistant Hub currently offers two primary tools:
