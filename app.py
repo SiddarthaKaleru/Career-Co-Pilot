@@ -9,7 +9,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-st.title("Welcome to the AI Assistant Hub 🤖")
+st.title("Welcome to the Career Co-Polit")
 st.markdown("""
 This is a one-stop portal for powerful AI tools designed to streamline your tasks.
 Whether you're polishing your resume or just looking for a smart conversational partner, you'll find a helpful assistant here.
