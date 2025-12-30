@@ -1,10 +1,10 @@
 # CAREER CO-POLIT 🤖
 
-Welcome to the AI Assistant Hub, a powerful Streamlit web application that leverages a multi-agent AI system built with **CrewAI** and powered by the lightning-fast **Groq API**. This hub provides a suite of intelligent tools designed to streamline complex tasks, starting with an expert-level resume analysis system.
+Welcome to the Career Co-Polit, a powerful Streamlit web application that leverages a multi-agent AI system built with **CrewAI** and powered by the lightning-fast **Groq API**. This hub provides a suite of intelligent tools designed to streamline complex tasks, starting with an expert-level resume analysis system.
 
 ## Features
 
-The AI Assistant Hub currently offers two primary tools:
+The Career Co-Polit currently offers two primary tools:
 
 ### 1\. ATS Resume Expert 📄🔍
 
@@ -47,7 +47,7 @@ This project is built with a modern, AI-centric Python stack:
 The project is organized into modules for clarity and scalability:
 
 ```
-/AI-Assistant-Hub
+/Career-Co-Polit
 ├── app.py                  # Main Streamlit hub entry point
 ├── agents.py               # Defines the CrewAI agents
 ├── tasks.py                # Defines the CrewAI tasks
@@ -64,13 +64,13 @@ The project is organized into modules for clarity and scalability:
 
 ## Setup & Installation
 
-Follow these steps to get the AI Assistant Hub running on your local machine.
+Follow these steps to get the Career Co-Polit running on your local machine.
 
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-assistant-hub.git
-cd ai-assistant-hub
+git clone https://github.com/your-username/Career-Co-Polit.git
+cd Career-Co-Polit
 ```
 
 ### 2\. Create and Activate a Virtual Environment
